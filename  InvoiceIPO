@@ -1,21 +1,0 @@
-
-
-		    Input                                                                     processs                                                                                                                   output
-		
-		get item input from user                             Store item                                                                                                           Prompt user for an item input
-		
-		  get price from user                                       store price                                                                                                              prompt user for price input
-		  
-	         Get response from user                             if user say "yes" continue                                                                                  Prompt user to continue
-    
-                                                                                                                                                                                                        
-		tax rate from user                                if user want to exit ask for tax rate                                                                      Prompt user for tax input
-
-		                                                                            save tax                                                                                                                              Display  items entered
-                                                                                             add the total price
-		                                                                             Calculate tax                                                                                                                                                    Display tax rate  
-		                                                                             add total price and tax 
-		                                                                                                                                                                                                                              Display tax charged  
-  
-		                                                                                                                                                                                                                                Display grand total  
-
